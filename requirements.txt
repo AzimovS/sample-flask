@@ -7,3 +7,4 @@ MarkupSafe
 Werkzeug
 requests
 xmltodict
+flask_apscheduler
